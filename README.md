@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chong Ting</h1>
 <h3 align="center">I am a software developer with experience in building multi-tiered applications. Graduated from Clemson University with Bachelor Degree in Computer Engineering. Created and manipulated the server-side technologies, such as Amazon Web Services with Spring Boot framework using Java 8. Implemented front-end applications with Angular and Bootstrap. Further improving my knowledge with self-study into learning React and Node.js</h3>
 
-- 🔭 I’m currently working on **Angular and Spring Boot**
+- 🔭 I’m currently working on **Angular and Spring Boot with Java 8**
 
 - 🌱 I’m currently learning **React and Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chong-ting/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chong-ting/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
